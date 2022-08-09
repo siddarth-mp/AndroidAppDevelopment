@@ -6,4 +6,5 @@ Bookhub : the app displays some set of books from local database using ROOM libr
 
 Avengersactivity: here I have used sharedPreferences to store data like user login credentials and a simple app that displays about avenger character 
 
-Foodapp: An app where I displayed, some set of restaurants from database by SQLlite query and add to favourites and contains multiple sections, like FAQ,profile,about app , login part needs to be added
+Foodapp: An app where I displayed, some set of restaurants from database by SQLlite query and add to favourites and contains multiple sections, like FAQ,profile,about app , login can be done , registering is also carried out by storing in local database,sorting based on rating ,low/high price is also done.
+
